@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-arm-snap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EgyTechnology/nodejs-arm-snap.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EgyTechnology/nodejs-arm-snap/issues"
+  },
+  "homepage": "https://github.com/EgyTechnology/nodejs-arm-snap#readme",
+  "dependencies": {
+    "commander": "^4.1.0",
+    "sqlite3": "^4.1.1"
+  }
+}
